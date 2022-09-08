@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Eggs Benedict",
+      "type": "breakfast",
+      "price": "$81.07",
+      "img": "https://i.ibb.co/6YgNP8h/breakfast1.png",
+      "desciption": "Voluptate quis tempor proident anim ea proident eiusmod cupidatat quis. Excepteur dolore ea et mollit tempor incididunt do reprehenderit sunt sit. Nisi ea laborum culpa laborum duis irure duis sunt laborum. Lorem enim elit incididunt aliquip magna mollit. In magna incididunt eu anim ex dolor. Elit ad labore officia ea aute.\r\n"
+    },
+    {
+      "name": "Breakfast sandwich",
+      "type": "breakfast",
+      "price": "$42.17",
+      "img": "https://i.ibb.co/mRL85Lm/breakfast2.png",
+      "desciption": "Sit irure laboris ut anim laboris ex quis nostrud qui incididunt voluptate laboris. Deserunt ut officia quis magna non qui ad incididunt consequat excepteur. Occaecat fugiat esse ullamco duis consectetur. Occaecat enim labore voluptate commodo consequat consequat officia cupidatat ullamco mollit.\r\n"
+    },
+    {
+      "name": "Backed Chiken",
+      "type": "breakfast",
+      "price": "$24.55",
+      "img": "https://i.ibb.co/2SyL6BP/breakfast3.png",
+      "desciption": "Cupidatat veniam non dolor ad enim qui fugiat consectetur ullamco commodo esse velit. Laborum qui aliqua adipisicing aliquip. Veniam irure eiusmod enim excepteur ullamco Lorem esse velit sint reprehenderit adipisicing Lorem proident non. Ullamco aute dolore cillum tempor.\r\n"
+    },
+    {
+      "name": "Bagel and cream cheese",
+      "type": "breakfast",
+      "price": "$17.95",
+      "img": "https://i.ibb.co/YZX1sVH/breakfast4.png",
+      "desciption": "Minim nostrud enim aliqua est ut. Anim esse commodo voluptate cupidatat id amet excepteur anim qui ut laborum. Commodo aliquip fugiat reprehenderit ea aliqua ad deserunt tempor laborum aliquip ipsum. Velit culpa eu eiusmod do et officia deserunt eu exercitation tempor veniam fugiat sint.\r\n"
+    },
+    {
+      "name": "Full Breakfast fried egg toast branch",
+      "type": "breakfast",
+      "price": "$39.86",
+      "img": "https://i.ibb.co/HrNHFF9/breakfast5.png",
+      "desciption": "Mollit id minim occaecat nostrud aliqua amet. Qui amet commodo mollit duis in labore sunt labore in elit consequat et nulla laboris. Officia ut magna aliquip mollit adipisicing fugiat. Ad officia esse eiusmod fugiat enim laboris laboris voluptate eiusmod fugiat commodo id est. Lorem nulla est irure cillum mollit occaecat proident veniam veniam aliqua minim consectetur elit. Quis nostrud proident eiusmod dolor ea velit eu.\r\n"
+    },
+    {
+      "name": "Backed Chiken",
+      "type": "dinner",
+      "price": "$33.17",
+      "img": "https://i.ibb.co/jwBRcRR/dinner1.png",
+      "desciption": "Lorem irure officia elit irure cupidatat Lorem ipsum dolore cupidatat laborum reprehenderit consectetur esse. Cupidatat ut sit voluptate eu anim nostrud minim. Aliquip labore anim pariatur in. Aute excepteur excepteur anim qui pariatur minim ut. Ipsum magna ex aute sit aliqua elit nostrud sit elit ut labore. Enim tempor et tempor dolore officia amet eu consequat Lorem aute laboris ut ullamco eu.\r\n"
+    },
+    {
+      "name": "Lemony selmon piccata",
+      "type": "dinner",
+      "price": "$14.76",
+      "img": "https://i.ibb.co/JK2B2nF/dinner2.png",
+      "desciption": "Non enim dolor est Lorem magna dolor nostrud incididunt ad sit ipsum irure. Laborum eiusmod dolor eiusmod elit. Velit mollit cillum amet esse nisi do sint voluptate elit adipisicing excepteur proident do deserunt. Labore ex laboris quis excepteur officia nulla enim. Velit aute eu cillum magna. Ea dolore veniam ipsum aliquip Lorem excepteur et proident eu in.\r\n"
+    },
+    {
+      "name": "Gurlic Butter Backed Salmon",
+      "type": "dinner",
+      "price": "$33.63",
+      "img": "https://i.ibb.co/gjbPG9Z/dinner3.png",
+      "desciption": "Excepteur nulla consectetur cupidatat velit reprehenderit duis anim eiusmod esse enim. Ullamco non dolor quis ipsum laborum Lorem sunt deserunt Lorem nostrud incididunt irure eiusmod eu. Occaecat dolor quis incididunt ipsum ad officia qui adipisicing. Exercitation commodo aute tempor laborum dolor non ad Lorem mollit esse commodo dolor elit. Esse aute magna nulla deserunt amet Lorem.\r\n"
+    },
+    {
+      "name": "France fries with cheese",
+      "type": "dinner",
+      "price": "$21.02",
+      "img": "https://i.ibb.co/bXgzm6T/dinner4.png",
+      "desciption": "Qui culpa non mollit et. Commodo in adipisicing sunt mollit minim excepteur elit reprehenderit ut nulla. Officia quis ad consequat aliqua nulla consectetur excepteur qui minim esse.\r\n"
+    },
+    {
+      "name": "Pork Tenderloin With Quinoa Pilaf",
+      "type": "dinner",
+      "price": "$25.85",
+      "img": "https://i.ibb.co/JkvZ1mn/dinner5.png",
+      "desciption": "In anim ut occaecat sit dolore aliqua magna aliquip. Velit mollit occaecat nulla aute cupidatat reprehenderit commodo anim. Occaecat nostrud sunt cillum veniam nulla ea occaecat tempor minim nulla officia in. Sunt elit voluptate anim sit irure ad.\r\n"
+    },
+    {
+      "name": "Beef steak",
+      "type": "lunch",
+      "price": "$14.65",
+      "img": "https://i.ibb.co/VSB6Q7z/lunch1.png",
+      "desciption": "Veniam adipisicing excepteur velit est officia irure esse quis commodo eu proident irure. Culpa sint dolor tempor labore non veniam in ea enim sint officia do. Irure occaecat labore cillum anim in. Adipisicing aute commodo esse reprehenderit ullamco culpa reprehenderit consectetur. Aliqua velit sit ea mollit qui.\r\n"
+    },
+    {
+      "name": "Honey-Soy-Glazed Salmon With Peppers",
+      "type": "lunch",
+      "price": "$13.06",
+      "img": "https://i.ibb.co/48m45XN/lunch2.png",
+      "desciption": "Id occaecat sint excepteur laborum minim sit Lorem enim est consequat adipisicing nisi velit ullamco. Tempor adipisicing adipisicing reprehenderit mollit veniam nostrud. Eiusmod veniam pariatur mollit quis incididunt nostrud esse aliqua magna occaecat eiusmod aute deserunt.\r\n"
+    },
+    {
+      "name": "Tarragon Rabbed Salmon",
+      "type": "lunch",
+      "price": "$19.17",
+      "img": "https://i.ibb.co/DpHMgLv/lunch3.png",
+      "desciption": "Dolore duis duis non ullamco cillum consectetur excepteur. Aliquip officia id consectetur esse sint tempor veniam sint. Eu minim ad ea excepteur consequat aliqua enim sit ut ea nostrud. Labore quis nisi do aliquip quis. Sit veniam non eiusmod sint sunt aute proident.\r\n"
+    },
+    {
+      "name": "Indial Lunch",
+      "type": "lunch",
+      "price": "$34.45",
+      "img": "https://i.ibb.co/wQ7Q0dC/lunch4.png",
+      "desciption": "Amet consequat do ad eu laboris consequat ea amet ad pariatur aliqua reprehenderit anim. Adipisicing mollit laborum elit ex officia deserunt occaecat incididunt deserunt officia et. Qui eu eu mollit voluptate elit eu reprehenderit eiusmod voluptate. Occaecat pariatur aliqua anim velit excepteur dolore reprehenderit nostrud magna anim id sit. Id excepteur laborum non occaecat incididunt ea enim minim commodo dolore est aute.\r\n"
+    },
+    {
+      "name": "Healthy Meal Plan",
+      "type": "lunch",
+      "price": "$35.20",
+      "img": "https://i.ibb.co/3z8mYQv/lunch5.png",
+      "desciption": "Est dolore tempor pariatur veniam excepteur sunt quis eiusmod veniam sit. Ad culpa fugiat non amet nulla commodo aliqua aute reprehenderit ipsum amet. Do culpa nisi sint non consectetur officia officia mollit. Eiusmod minim velit irure est laboris sunt elit nulla fugiat et.\r\n"
+    }
+  ]
