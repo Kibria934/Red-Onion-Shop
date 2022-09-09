@@ -14,6 +14,7 @@ import Dinner from "./components/FirstPage/Home/Foods/Dinner/Dinner";
 import Loading from "./components/SharedPage/Loading/Loading";
 // import Loading from "./components/SharedPage/Loading/Loading";
 import { Toaster } from "react-hot-toast";
+import Delivery from "./components/SecondPage/ProductDelivery/Delivery";
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
             <Route path="lunch" element={<Lunch></Lunch>}></Route>
             <Route path="dinner" element={<Dinner></Dinner>}></Route>
           </Route>
+          <Route path="delivery" element={<Delivery />}></Route>
           <Route path="/login" element={<LogIn></LogIn>}></Route>
           <Route path="/signup" element={<SignUp></SignUp>}></Route>
         </Routes>

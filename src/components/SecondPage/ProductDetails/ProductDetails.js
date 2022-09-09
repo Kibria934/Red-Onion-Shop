@@ -28,6 +28,7 @@ const ProductDetails = () => {
   }
 
   const selected = foods.find((food) => food._id === productId);
+  console.log(selected);
 
   return (
     <div style={{ minHeight: "87vh" }}>
@@ -99,6 +100,7 @@ const ProductDetails = () => {
                           qnty: count,
                           price: selected?.price.split("$")[1],
                           type: selected?.type,
+                          img: selected?.img,
                         })
                       );
                     }
